@@ -4,7 +4,7 @@ I build software in whatever form it needs to be. Web, mobile, backend, infrastr
 
 Full-stack developer building [MonoSpace](https://monospace.co.za).
 
-Fueled by curiosity to discover whatever hasn't been discovered.
+On a pirate's crazy-eyed quest to discover whatever hasn't been discovered.
 
 Most of my work lives in private repos, courtesy of MonoSpace projects. Sorry.
 
