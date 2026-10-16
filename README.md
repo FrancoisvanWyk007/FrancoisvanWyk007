@@ -8,4 +8,4 @@ On a pirate's crazy-eyed quest to discover whatever hasn't been discovered.
 
 Most of my work lives in private repos, courtesy of MonoSpace projects. Sorry.
 
-Whatever weekend project I'm currently hyperfixating on will probably end up here.
+Current weekend project: typopro (I'll workshop the name)
